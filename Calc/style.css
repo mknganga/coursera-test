@@ -1,0 +1,59 @@
+  
+html {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	font-smooth: auto;
+	font-weight: 300;
+	line-height: 1.5;
+	color: #444;
+}
+
+body {
+	background-color:whitesmoke;
+	padding-bottom: 30px;
+    padding-top: 30px;
+
+
+
+}
+
+
+h1{
+	text-align: center;
+}
+
+div.container{
+	margin:  auto;
+	margin: auto;
+  width: 60%;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: auto;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+input, select {
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 30px;
+}
+
+
+
+
+
+
+
+
+
