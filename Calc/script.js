@@ -10,7 +10,7 @@ var yrs = document.getElementById("years").value;
 
 
 var r = document.getElementById("rate").value;
-var interest = (p*r*yrs);
+var interest = (p*r*yrs)/100;
 
 
 window.p = p;
